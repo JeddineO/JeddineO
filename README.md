@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JeddineO
-- 👀 I’m interested in web devepmeny
+- 👀 I’m interested in web devepment
 - 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 JeddineO/JeddineO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
