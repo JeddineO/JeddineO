@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeddineo.github.io/jalaleddineoutgouga./](https://jeddineo.github.io/jalaleddineoutgouga./)
 
-- 💬 Ask me about **React,Laravel,Dapps**
+- 💬 Ask me about **Java, Spring, React, Dapps, Solidity, *
 
 - 📫 How to reach me **ouygougajalaldine@gmail.com**
 
