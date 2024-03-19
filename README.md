@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeddineo&label=Profile%20views&color=0e75b6&style=flat" alt="jeddineo" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jeddineo.github.io/jalaleddineoutgouga./](https://jeddineo.github.io/jalaleddineoutgouga./)
+- 👨‍💻 All of my projects are available at [Mygithub](https://github.com/JeddineO)
 
 - 💬 Ask me about **Java, Spring, React, Dapps, Solidity, *
 
 - 📫 How to reach me **ouygougajalaldine@gmail.com**
 
-- 📄 Know about my experiences [https://jeddineo.github.io/jalaleddineoutgouga./](https://jeddineo.github.io/jalaleddineoutgouga./)
+- 📄 Know about my experiences [Myresume]()
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
