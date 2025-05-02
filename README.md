@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jalal Eddine OUTGOUGA</h1>
-<h3 align="center">Software Engineer | Passionate about Blockchain and Web3</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeddineo&label=Profile%20views&color=0e75b6&style=flat" alt="jeddineo" /> </p>
 
-- 👨‍💻 All of my projects are available at [Mygithub](https://github.com/JeddineO)
-
-- 💬 Ask me about **Java, Spring, React, Dapps, Solidity, *
-
 - 📫 How to reach me **ouygougajalaldine@gmail.com**
 
-- 📄 Know about my experiences [Myresume]()
 
 
 <h3 align="left">Connect with me:</h3>
